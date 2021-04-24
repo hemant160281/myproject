@@ -111,11 +111,11 @@ color: #fff;
     .home-cards a:hover i{
         margin-left: 10px;
     }
-    .main-footer{
+    #main-footer{
         padding: 2em;
         background: #e8491d;
         color: #fff;
         text-align: center;
     }
-    
+
     
