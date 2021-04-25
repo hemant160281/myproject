@@ -117,5 +117,19 @@ color: #fff;
         color: #fff;
         text-align: center;
     }
+@media(max-width: 768px){
+    .home-cards{
+        grid-template-columns: 1fr 1fr;
+    }
+    .xbox.content p{
+        display: none;
+    }
+    .xbox.content h2{
+        margin-bottom: 20px;
+    }
+    .carbon .content{
+        width: 85%;
+    }
+}
 
     
